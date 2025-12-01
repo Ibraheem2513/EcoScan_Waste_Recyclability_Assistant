@@ -1,0 +1,7 @@
+{
+  "name": "EcoScan - Waste Recyclability Assistant",
+  "description": "Upload photos of waste items to instantly determine if they are recyclable and learn how to dispose of them correctly using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
